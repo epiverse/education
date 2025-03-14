@@ -7,4 +7,4 @@ Simple: "Bachelor's in Computer Science"
 
 Challenging: "Bachelor of Arts in English Literature" or "Completed 16 years of education but no formal degree"
 
-assign into categories like associate's, bachelor's, master's, and doctorate.
+Assign into categories like associate's, bachelor's, master's, and doctorate.
